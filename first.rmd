@@ -81,3 +81,5 @@ system2("echo", args = "Output that would normally be lost")
 ## Session info
 
 Because `session_info` is `TRUE`, the rendered result includes session info, even though no such code is included here in the source document. 
+
+
